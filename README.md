@@ -11,4 +11,4 @@ Generation of artistic video production.
 
 ## About the project:
 
-For a long time there was an opinion that algorithms are not capable of creating works of art. Today, artificial intelligence technologies are getting more and more popularity in the creative industries: with their help, they write music and texts, draw pictures. Such solutions can greatly facilitate or automate the laborious process of creating creative works and their visualization.
+For a long time there was an opinion that algorithms are not capable of creating works of art. Today, artificial intelligence technologies are becoming increasingly popular in the creative industries: with their help, they write music and texts, draw pictures. This project can greatly facilitate or automate the time-consuming process of creating creative works and their visualization.
